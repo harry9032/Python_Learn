@@ -1,0 +1,29 @@
+# 1 - Hello Worl
+print("Hello World")
+# 2 - Mary's cosmetics
+print("Mary's cosmetics")
+# 3 - 신씨가 소리질렀다. "도둑이야".
+print('신씨가 소리질렀다. "도둑이야".')
+# 4 - "C:\Windows"
+print('"C:\Windows"')
+# 5 - 안녕하세요.
+#     만나서       반갑습니다.
+print("안녕하세요.\n만나서\t\t반갑습니다.")
+# 6 - 오늘은일요일
+print ("오늘은", "일요일")
+# 7 - naver;kakao;sk;samsung
+print('naver', 'kakao', 'sk', 'samsung', sep=';')
+# 8 - naver/kakao/sk/samsung
+print('naver', 'kakao', 'sk', 'samsung', sep='/')
+# 9 - firstsecond
+print("first", end='');print("second")
+# 10 - 5/3
+print(5/3)
+
+
+
+
+
+
+
+
